@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @thaliaapt
 - 👀 I’m interested in Urban Design and Planning, Python, Parametric Design and GIS 
-- 🌱 I’m currently learning Python and GIS
+- 🌱 I’m currently learning Python, SQL, and GIS
 - 📫 How to reach me : thaliaapt09@gmail.com
 
 <!---
